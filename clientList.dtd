@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT client_list (client)+>
+
+<!ELEMENT client ( ( company_name | client_name ), project_name*, contact ) >
+
+<!ENTITY % pc "(#PCDATA)">
+<!ENTITY % cd "CDATA">
+
+<!ELEMENT company_name %pc;>
+<!ELEMENT client_name %pc;>
+
+<!ELEMENT project_name %pc;>
+
+<!ELEMENT contact (contact_person*)>
+
+<!ELEMENT contact_person (name,contact_details*)>
+<!ATTLIST contact_person position CDATA #implied>
+
+<!ELEMENT name (#%cd;)>
+
+<!ELEMENT contact_details %pc;>
+<!ATTLIST contact_details type %cd; #required>

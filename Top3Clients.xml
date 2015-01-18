@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE client_list SYSTEM "clientList.dtd">
+<?xml-stylesheet type="text/xsl" href="clientList.xsl"?>
+
+<client_list>
+	<client>
+		<company_name>Natrapharm Inc.</company_name>
+		<contact>
+			<contact_person position="district manager">
+				<name>Lyngie Fernandez</name>
+			</contact_person>
+		</contact>
+	</client>
+	<client>
+		<company_name>CAI-STA</company_name>
+		<project_name>Inventory System for Purchases</project_name>
+		<contact>
+			<contact_person>
+				<name>Rosalie Fernandez</name>
+				<contact_details type="mobile">(+63)9175977209</contact_details>
+				<contact_details type="e-mail">sally_fernandez@compaid.com</contact_details>
+				<contact_details type="landline">(+02)581-91-24</contact_details>
+			</contact_person>
+		</contact>
+	</client>
+	<client>
+		<company_name>Camella Homes</company_name>
+		<project_name>Building Cost Estimator</project_name>
+		<contact>
+			<contact_person position="civil engineer">
+				<name>Runar Quindoza</name>
+				<contact_details type="e-mail">rcquindoza@gmail.com</contact_details>
+			</contact_person>
+		</contact>
+	</client>
+</client_list>
