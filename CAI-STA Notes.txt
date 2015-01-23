@@ -1,0 +1,54 @@
+Process
+	upon request
+	sorted out
+	make PO
+		
+		type
+			HARD - hardware
+			SOFT - software
+			GEN - general
+			*dropdown		
+		vendor's name
+		qty
+		unit price
+		amount 
+		total price
+		
+-add customers
+-CRUD suppliers table
+
+Project Assignment
+	Assignee -> Project 0..*
+
+
+Items (IT Assets,Non-IT Assets(Furniture, Office Supplies),IT Components,Software)
+	item description
+	classification
+	assignee
+	available, on stock, in use, disposed, junk
+IT Assets
+	service tag
+	description
+	asset tag
+	date of delivery
+IT Assets and Components
+	5 yrs warranty
+	tracking (notification)
+SW
+	License Key
+
+one user edits PO, inventory
+technical views, inventory (level 1/2)
+*admin login
+
+inventory report
+-MS Excel
+
+Contract
+	Start 
+	End
+	IT Assets
+
+Inventory	|	Contract (Maintenance)
+
+centralized server
