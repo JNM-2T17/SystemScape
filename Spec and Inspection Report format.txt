@@ -1,0 +1,17 @@
+User Story #n:______________________
+Precondition:_______________________
+Interaction:
+	1.
+	2.
+	3.
+	...
+Postcondition:______________________
+Acceptance Criteria:
+	1.
+	2.
+	3.
+	...
+	
+Inspection Report
+Origin					Problem			Recommended Area for Improvement
+User Story #n (page) 	
