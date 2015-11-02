@@ -1,0 +1,1570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="view.Button.ButtonBuilder" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/Button.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="201" y="461"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="view.Button" project="SPSWENGCurr" file="/SPSWENGCurr/src/view/Button.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="201" y="208"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="view.CellEdit" project="SPSWENGCurr" file="/SPSWENGCurr/src/view/CellEdit.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="973" y="1720"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="view.Contact" project="SPSWENGCurr" file="/SPSWENGCurr/src/view/Contact.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="765" y="1756"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="view.Content" project="SPSWENGCurr" file="/SPSWENGCurr/src/view/Content.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3682" y="1501"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="view.Content.ContentBuilder" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/Content.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3372" y="1501"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="view.ErrorListenerFactory" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/ErrorListenerFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1352" y="228"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="view.Extra" project="SPSWENGCurr" file="/SPSWENGCurr/src/view/Extra.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1296" y="347"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="view.Gui" project="SPSWENGCurr" file="/SPSWENGCurr/src/view/Gui.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5487" y="891"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="view.ImageLabel" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/ImageLabel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="182" y="634"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="view.ImageLabel.ImageBuilder" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/ImageLabel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="199" y="884"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="view.JTextFieldFilter" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/JTextFieldFilter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="220" y="1398"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="view.Login" project="SPSWENGCurr" file="/SPSWENGCurr/src/view/Login.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4641" y="894"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="view.MainPanel" project="SPSWENGCurr" file="/SPSWENGCurr/src/view/MainPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5094" y="76"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="view.Message" project="SPSWENGCurr" file="/SPSWENGCurr/src/view/Message.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2872" y="963"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="view.NotifContract" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/NotifContract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2052" y="216"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="view.Notification" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/Notification.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2304" y="402"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="view.NotifWarranty" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/NotifWarranty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2048" y="340"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="19" language="java" name="view.Observer" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/Observer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2569" y="-215"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="20" language="java" name="view.PanelCell" project="SPSWENGCurr" file="/SPSWENGCurr/src/view/PanelCell.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1406" y="1710"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="view.PopUp" project="SPSWENGCurr" file="/SPSWENGCurr/src/view/PopUp.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3144" y="848"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="view.Settings" project="SPSWENGCurr" file="/SPSWENGCurr/src/view/Settings.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2661" y="1140"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="23" language="java" name="view.Subject" project="SPSWENGCurr" file="/SPSWENGCurr/src/view/Subject.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2070" y="78"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="24" language="java" name="view.TextAreaError" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/TextAreaError.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1586" y="242"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="view.TextFieldError" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/TextFieldError.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1775" y="241"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="view.ViewSpecificTemplate" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/ViewSpecificTemplate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1501" y="1089"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="view.ViewTemplate" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/ViewTemplate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1956" y="1448"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="view.employee.AddEmployee" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/employee/AddEmployee.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4122" y="-428"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="view.employee.EditEmployee" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/employee/EditEmployee.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4362" y="-360"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="view.employee.FilterEmployee" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/employee/FilterEmployee.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4120" y="-194"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="view.employee.ProjectPanel" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/employee/ProjectPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4678" y="-360"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="view.employee.TabEmployees" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/employee/TabEmployees.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4622" y="-186"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="view.employee.ViewEmployee" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/employee/ViewEmployee.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3958" y="-196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="view.inventory.BasicAddItem" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/BasicAddItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2056" y="3732"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="view.inventory.ExportInventory" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/ExportInventory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3104" y="1311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="view.inventory.FilterInventory" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/FilterInventory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2857" y="1300"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="view.inventory.InventoryCellEdit" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/InventoryCellEdit.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="242" x="2139" y="2224"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="view.inventory.ItemPanelDecorator" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/ItemPanelDecorator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1958" y="4168"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="39" language="java" name="view.inventory.ItemPanelParticipant" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/ItemPanelParticipant.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2938" y="3760"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="40" language="java" name="view.inventory.ItemPanelTemplate" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/ItemPanelTemplate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1754" y="3722"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="41" language="java" name="view.inventory.PanelRegistration" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/PanelRegistration.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2472" y="3440"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="42" language="java" name="view.inventory.PanelRegistry" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/PanelRegistry.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2435" y="3739"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="view.inventory.TabInventory" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/TabInventory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4340" y="2852"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="view.inventory.ViewInventory" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/ViewInventory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2440" y="3160"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="45" language="java" name="view.inventory.itemstorage.ItemStorage" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemstorage/ItemStorage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="346" y="3770"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="46" language="java" name="view.inventory.itemstorage.ItemStorageContract" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemstorage/ItemStorageContract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1275" y="2921"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="view.inventory.itemstorage.ItemStorageGeneral" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemstorage/ItemStorageGeneral.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1271" y="3249"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="view.inventory.itemstorage.ItemStorageGenInfo" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemstorage/ItemStorageGenInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1271" y="3599"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="view.inventory.itemstorage.ItemStorageIT" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemstorage/ItemStorageIT.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1313" y="3957"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="view.inventory.itemstorage.ItemStorageNonIT" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemstorage/ItemStorageNonIT.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1307" y="4261"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="view.inventory.itemstorage.ItemStorageSoftware" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemstorage/ItemStorageSoftware.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1301" y="4543"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="view.inventory.itemstorage.ItemStorageWarranty" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemstorage/ItemStorageWarranty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1313" y="4847"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="53" language="java" name="view.inventory.itemstorage.TypeItemStorage" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemstorage/TypeItemStorage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="378" y="4216"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="54" language="java" name="view.inventory.itemtile.ItemTileContract" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemtile/ItemTileContract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2408" y="4894"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="view.inventory.itemtile.ItemTileGeneral" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemtile/ItemTileGeneral.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4376" y="4172"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="view.inventory.itemtile.ItemTileGenInfo" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemtile/ItemTileGenInfo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2014" y="4948"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="view.inventory.itemtile.ItemTileIT" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemtile/ItemTileIT.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3320" y="4928"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="view.inventory.itemtile.ItemTileNonIT" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemtile/ItemTileNonIT.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3630" y="4884"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="view.inventory.itemtile.ItemTileSoftware" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemtile/ItemTileSoftware.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3946" y="4912"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="view.inventory.itemtile.ItemTileWarranty" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemtile/ItemTileWarranty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2866" y="4880"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="61" language="java" name="view.inventory.itemtile.TypeItemTile" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/inventory/itemtile/TypeItemTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4270" y="5316"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="62" language="java" name="view.project.AddProject" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/project/AddProject.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3397" y="1150"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="view.project.TabProject" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/project/TabProject.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3892" y="1470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="view.project.ViewProjects" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/project/ViewProjects.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3751" y="718"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="view.purchaseOrder.AddPO" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/AddPO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2040" y="-1334"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="view.purchaseOrder.AddPOItem.TextAmountActionListener" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/AddPOItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1136" y="-973"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="view.purchaseOrder.AddPOItem" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/AddPOItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="997" y="-1594"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="view.purchaseOrder.EditPO" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/EditPO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2424" y="-1581"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="view.purchaseOrder.EditPOItem" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/EditPOItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1591" y="-1613"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" name="view.purchaseOrder.EditPOItem.TextAmountActionListener" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/EditPOItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1507" y="-1177"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="71" language="java" name="view.purchaseOrder.EditPOItemGen" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/EditPOItemGen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2931" y="-1760"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="72" language="java" name="view.purchaseOrder.EditPOItemHard" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/EditPOItemHard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3432" y="-1613"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="73" language="java" name="view.purchaseOrder.EditPOItemSoft" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/EditPOItemSoft.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3092" y="-1104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="view.purchaseOrder.ExportPO" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/ExportPO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2492" y="-1019"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" name="view.purchaseOrder.FilterPO" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/FilterPO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2768" y="-937"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="76" language="java" name="view.purchaseOrder.POCell" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/POCell.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1218" y="-666"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="77" language="java" name="view.purchaseOrder.POCellEdit" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/POCellEdit.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="698" y="-679"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="78" language="java" name="view.purchaseOrder.POCellRendEdit" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/POCellRendEdit.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1212" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="79" language="java" name="view.purchaseOrder.POItemCellEdit" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/POItemCellEdit.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="424" y="-1112"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="view.purchaseOrder.POItemCheckBoxCell" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/POItemCheckBoxCell.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4260" y="-1724"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="81" language="java" name="view.purchaseOrder.POTableModel" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/POTableModel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2100" y="-1912"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="82" language="java" name="view.purchaseOrder.TabPO" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/TabPO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3516" y="-248"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="83" language="java" name="view.purchaseOrder.ViewListPO" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/ViewListPO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1484" y="-404"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="84" language="java" name="view.purchaseOrder.ViewPO" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/ViewPO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3564" y="-1084"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="85" language="java" name="view.purchaseOrder.ViewPOItemTable" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/ViewPOItemTable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3848" y="-1064"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="86" language="java" name="view.purchaseOrder.ViewSpecificPO" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/purchaseOrder/ViewSpecificPO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4452" y="-1072"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="87" language="java" name="view.supplier.AddSupplier" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/supplier/AddSupplier.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5818" y="1585"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="88" language="java" name="view.supplier.Contact" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/supplier/Contact.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5826" y="1932"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="89" language="java" name="view.supplier.EditSupplier" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/supplier/EditSupplier.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5859" y="2406"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="90" language="java" name="view.supplier.FilterSupplier" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/supplier/FilterSupplier.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5206" y="1820"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="91" language="java" name="view.supplier.SupplierCellEdit" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/supplier/SupplierCellEdit.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5446" y="2985"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="92" language="java" name="view.supplier.TabSupplier" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/supplier/TabSupplier.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5479" y="2753"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="93" language="java" name="view.supplier.ViewContactsTable" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/supplier/ViewContactsTable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5139" y="2732"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="94" language="java" name="view.supplier.ViewListSuppliers" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/supplier/ViewListSuppliers.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5219" y="2460"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="95" language="java" name="view.supplier.ViewSpecificSupplier" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/supplier/ViewSpecificSupplier.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5219" y="2138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="96" language="java" name="view.supplier.ViewSuppliers" project="SPSWENGCurr" 
+    file="/SPSWENGCurr/src/view/supplier/ViewSuppliers.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="5113" y="3053"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="97">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <association id="98">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="99" name="list"/>      
+      <multiplicity id="100" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="101">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="102">    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="103" name="instance"/>      
+      <multiplicity id="104" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="52" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="105">    
+    <end type="SOURCE" refId="77"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <realization id="106">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="45"/>  
+  </realization>  
+  <association id="107">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="108" name="panel"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="110">    
+    <end type="SOURCE" refId="83"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <association id="111">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="112" name="gui"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="115" name="panelRegistry"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <end type="SOURCE" refId="92" navigable="false">      
+      <attribute id="118" name="list"/>      
+      <multiplicity id="119" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="121" name="instance"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="123">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="124" name="list"/>      
+      <multiplicity id="125" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="126">    
+    <end type="SOURCE" refId="83"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <association id="127">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="128" name="itemTileWarranty"/>      
+      <multiplicity id="129" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="130">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="131" name="addItemPanelReference"/>      
+      <multiplicity id="132" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="133">    
+    <end type="SOURCE" refId="96"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <realization id="134">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="45"/>  
+  </realization>  
+  <association id="135">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="136" name="itemTileGenInfo"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="138">    
+    <end type="SOURCE" refId="82" navigable="false">      
+      <attribute id="139" name="list"/>      
+      <multiplicity id="140" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="141">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <realization id="142">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <association id="143">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="144" name="tabInventory"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="146">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <realization id="147">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <generalization id="148">    
+    <end type="SOURCE" refId="62"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <realization id="149">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <realization id="150">    
+    <end type="SOURCE" refId="93"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <association id="151">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="152" name="gui"/>      
+      <multiplicity id="153" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="154">    
+    <end type="SOURCE" refId="90"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="155">    
+    <end type="SOURCE" refId="91" navigable="false">      
+      <attribute id="156" name="tab"/>      
+      <multiplicity id="157" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="158">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <association id="159">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="160" name="instance"/>      
+      <multiplicity id="161" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="162">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="61"/>  
+  </realization>  
+  <realization id="163">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="61"/>  
+  </realization>  
+  <association id="164">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="165" name="instance"/>      
+      <multiplicity id="166" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="167">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <association id="168">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="169" name="gui"/>      
+      <multiplicity id="170" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="171">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="172" name="itemTileContract"/>      
+      <multiplicity id="173" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="54" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="174">    
+    <end type="SOURCE" refId="65" navigable="false">      
+      <attribute id="175" name="poTableModel"/>      
+      <multiplicity id="176" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="177">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="45"/>  
+  </realization>  
+  <association id="178">    
+    <end type="SOURCE" refId="63" navigable="false">      
+      <attribute id="179" name="list"/>      
+      <multiplicity id="180" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="181">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <nesting id="182">    
+    <end type="SOURCE" refId="69"/>    
+    <end type="TARGET" refId="70"/>  
+  </nesting>  
+  <association id="183">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="184" name="itemTileSoftware"/>      
+      <multiplicity id="185" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="186">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <realization id="187">    
+    <end type="SOURCE" refId="85"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <realization id="188">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="41"/>  
+  </realization>  
+  <realization id="189">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="40"/>  
+  </realization>  
+  <generalization id="190">    
+    <end type="SOURCE" refId="91"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="191">    
+    <end type="SOURCE" refId="93"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <association id="192">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="193" name="instance"/>      
+      <multiplicity id="194" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="195">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="196">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="197" name="list"/>      
+      <multiplicity id="198" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="199">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <realization id="200">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="45"/>  
+  </realization>  
+  <realization id="201">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="53"/>  
+  </realization>  
+  <realization id="202">    
+    <end type="SOURCE" refId="94"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <generalization id="203">    
+    <end type="SOURCE" refId="75"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="204">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <realization id="205">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="61"/>  
+  </realization>  
+  <generalization id="206">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <generalization id="207">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <generalization id="208">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <realization id="209">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="45"/>  
+  </realization>  
+  <association id="210">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="211" name="participantList"/>      
+      <multiplicity id="212" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="213">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="214" name="gui"/>      
+      <multiplicity id="215" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="216">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <nesting id="217">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <association id="218">    
+    <end type="SOURCE" refId="87" navigable="false">      
+      <attribute id="219" name="list"/>      
+      <multiplicity id="220" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="88" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="221">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="66"/>  
+  </nesting>  
+  <generalization id="222">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <association id="223">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="224" name="parent"/>      
+      <multiplicity id="225" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="226">    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="227" name="temp"/>      
+      <multiplicity id="228" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="88" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="229">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <association id="230">    
+    <end type="SOURCE" refId="87" navigable="false">      
+      <attribute id="231" name="temp"/>      
+      <multiplicity id="232" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="88" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="233">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <generalization id="234">    
+    <end type="SOURCE" refId="85"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <association id="235">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="236" name="parent"/>      
+      <multiplicity id="237" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="238">    
+    <end type="SOURCE" refId="84" navigable="false">      
+      <attribute id="239" name="tab"/>      
+      <multiplicity id="240" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="82" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="241">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <realization id="242">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <association id="243">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="244" name="tab"/>      
+      <multiplicity id="245" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="246">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="247" name="itemTileIT"/>      
+      <multiplicity id="248" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="249">    
+    <end type="SOURCE" refId="96" navigable="false">      
+      <attribute id="250" name="tab"/>      
+      <multiplicity id="251" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="252">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="40"/>  
+  </realization>  
+  <association id="253">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="254" name="instance"/>      
+      <multiplicity id="255" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="256">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="53"/>  
+  </realization>  
+  <realization id="257">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <realization id="258">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="45"/>  
+  </realization>  
+  <association id="259">    
+    <end type="SOURCE" refId="76" navigable="false">      
+      <attribute id="260" name="panel"/>      
+      <multiplicity id="261" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="78" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="262">    
+    <end type="SOURCE" refId="78" navigable="false">      
+      <attribute id="263" name="tab"/>      
+      <multiplicity id="264" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="82" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="265">    
+    <end type="SOURCE" refId="72"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="266">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="267" name="instance"/>      
+      <multiplicity id="268" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="269">    
+    <end type="SOURCE" refId="89" navigable="false">      
+      <attribute id="270" name="list"/>      
+      <multiplicity id="271" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="88" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="272">    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="273" name="poTableModel"/>      
+      <multiplicity id="274" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="275">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <generalization id="276">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <realization id="277">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="61"/>  
+  </realization>  
+  <generalization id="278">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <generalization id="279">    
+    <end type="SOURCE" refId="69"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="280">    
+    <end type="SOURCE" refId="73"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="281">    
+    <end type="SOURCE" refId="63" navigable="false">      
+      <attribute id="282" name="gui"/>      
+      <multiplicity id="283" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="284">    
+    <end type="SOURCE" refId="94" navigable="false">      
+      <attribute id="285" name="viewSpecific"/>      
+      <multiplicity id="286" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="95" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="287">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <association id="288">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="289" name="temp"/>      
+      <multiplicity id="290" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="291">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="292" name="itemTileGeneral"/>      
+      <multiplicity id="293" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="55" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="294">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <association id="295">    
+    <end type="SOURCE" refId="82" navigable="false">      
+      <attribute id="296" name="gui"/>      
+      <multiplicity id="297" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="298">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="299" name="tab"/>      
+      <multiplicity id="300" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="82" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="301">    
+    <end type="SOURCE" refId="96"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <generalization id="302">    
+    <end type="SOURCE" refId="94"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <realization id="303">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <generalization id="304">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="305">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="306" name="tab"/>      
+      <multiplicity id="307" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="308">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="45"/>  
+  </realization>  
+  <association id="309">    
+    <end type="SOURCE" refId="86" navigable="false">      
+      <attribute id="310" name="tblPOItem"/>      
+      <multiplicity id="311" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="312">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <association id="313">    
+    <end type="SOURCE" refId="51" navigable="false">      
+      <attribute id="314" name="instance"/>      
+      <multiplicity id="315" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="316">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="317" name="itemTileNonIT"/>      
+      <multiplicity id="318" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="319">    
+    <end type="SOURCE" refId="83" navigable="false">      
+      <attribute id="320" name="viewSpecific"/>      
+      <multiplicity id="321" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="86" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="322">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="38"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
